@@ -1,0 +1,25 @@
+.filterPrice{
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+.filterPrice__input{
+  margin: 0 10px;
+}
+.filterPrice__input input{
+  height: 20px;
+  padding: 5px;
+}
+.filterPrice__button{
+  border: none;
+  padding: 0 20px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: #4267B2;
+  transition: 0.2s;
+}
+.filterPrice__button:hover{
+  opacity: 0.9;
+}

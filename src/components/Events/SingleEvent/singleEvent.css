@@ -1,0 +1,25 @@
+.singleEvent{
+  margin: 50px 0;
+}
+.singleEvent div{
+  padding: 10px 0;
+}
+.singleEvent__name{
+  font-weight: bold;
+  color: #4267B2;
+}
+.singleEvent__button{
+  border: none;
+  border-radius: 5px;
+  margin: 30px 0;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: #4267B2;
+  transition: 0.2s;
+}
+.singleEvent__button:hover{
+  opacity: 0.9;
+}

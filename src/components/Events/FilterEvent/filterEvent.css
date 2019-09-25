@@ -1,0 +1,18 @@
+.filterEvent__button{
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: #4267B2;
+  transition: 0.2s;
+}
+.filterEvent__button:hover{
+  opacity: 0.9;
+}
+.filterEvent__button:focus{
+  outline: none;
+}
